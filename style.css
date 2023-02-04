@@ -185,9 +185,69 @@ img{
     line-height: 29px; 
 
 }
+/* Resume style */
+.resume{
+    display: flex;
+    gap: 24px;
+}
+.resume-title{
+    text-align: center;
+    border-radius: 5px;
+    text-shadow: 2px -1.5px 1px #757575;
+    font-weight: 700;
+    text-transform:capitalize;
+    font-size: 35px;
+    margin-bottom :50px;
+    margin-top: 60px; 
+}.education-resume-content , .experience-resume-content{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    width: 558px;
+    
+
+
+    
+}
+.education-name , .experience-name{
+    width: 450px;
+    height: 34px;
+    left: 230px;
+    top: 2600px;
+    font-weight: 700;
+    font-size: 25px;
+
+
+}.cducation-institude , .experience-from{
+    margin-bottom: 20px;
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+
+}.cducation-description , .experience-description {
+  font-size: 16px;
+  font-weight: 700;
+  color: #050202;
+}.education-title , .experience-title{
+    font-size: 30px;
+    font-size: 30px;
+    line-height: 41px;
+    color: #474747;
+    margin-bottom: 10px;
+}hr{
+    width: 558px;
+    left: 230px;
+    top: 3044px;
+    box-shadow: 2px -3px 4px grey;
+    
+
+}.resume-btn{
+    margin-bottom: 50px;
+    text-align: center;
+
+} 
 /* 
-
-
-
-
+Start footer section
  */
+
+
+
