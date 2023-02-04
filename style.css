@@ -71,8 +71,8 @@ nav{
 
     
 
-}img{
-}.banner-title{
+}
+.banner-title{
     color:#181818;
     font-weight: 700;
     font-size:85px; 
@@ -135,4 +135,59 @@ main{
     
 
 }
+/* what i do style */
+#what-i-do-section{
+    text-align: center;
+    border-radius: 5px;
+    text-shadow: 2px -1.5px 1px #757575;
+    
+}
+.what-i-do-title{
+    color: #181818;
+    font-weight: 700;
+    text-transform:capitalize;
+    margin-bottom: 50px;
+    font-size: 35px;
+}.what-i-do-description{
+    text-align: justify;
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+/* My Skills Style */
+.my-skills{
+    display: flex;
+    gap: 24px;
+}
+img{
+ margin-bottom: 5px;
+}
+.skills{
+    width: 250px;
+    height: 277px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    
 
+
+}.skill-title{
+    font-weight: 700px;
+    font-size: 22px;
+    margin-bottom: 20px;
+}.skills-description{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    line-height: 29px; 
+
+}
+/* 
+
+
+
+
+ */
